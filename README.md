@@ -25,11 +25,11 @@ The system utilizes the RT-IoT2022 dataset, which contains a diverse collection 
 
 IoT Guardian is built using a combination of machine learning, data science, and network security tools:
 
-- Python for implementing the entire system.
+- Python for implementing the entire systems.
 
 - Jupyter Notebook for interactive analysis and experimentation.
 
-- Machine Learning frameworks such as Scikit-learn, TensorFlow, or PyTorch for training models.
+- Machine Learning frameworks such as Scikit-learn, TensorFlow, or PyTorch for training models for perform.
 
 - Pandas & NumPy for efficient data processing and manipulation.
 
